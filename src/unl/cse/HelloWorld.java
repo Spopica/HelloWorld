@@ -10,6 +10,7 @@ public class HelloWorld {
 		System.out.println("Hi I'm dandy, you?");
 		
 		System.out.println("Salut bro, cum merge la PIP? :)");
+		System.out.println("New Line");
 	}
 
 }
